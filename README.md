@@ -2,7 +2,9 @@
 
 ## Description
 
-This project aims to identify different sign language gestures using a machine learning model. The gestures identified include "Hello", "I Love You", "No", "Okay", "Please", "Thank You", and "Yes".
+This is the project created by me and my teammates for my Second Year Mini Project of Computer Engineering. <br>
+This project aims to identify different sign language gestures using a machine learning model. <br>
+The gestures identified include "Hello", "I Love You", "No", "Okay", "Please", "Thank You", and "Yes".
 
 ## Installation
 
