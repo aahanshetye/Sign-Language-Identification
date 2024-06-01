@@ -54,10 +54,11 @@ The gestures identified by the model are defined in labels.txt:
 
 If you want to contribute to this project, please follow these steps:
 
+```
 Fork the repository
 Create a new branch (git checkout -b feature-branch)
 Make your changes
 Commit your changes (git commit -am 'Add some feature')
 Push to the branch (git push origin feature-branch)
 Open a Pull Request
-
+```
