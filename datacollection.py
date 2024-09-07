@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-folder = "/Users/Vihan/Projects/Sign Language AI/Data/Yes"
+folder = "/Users/Aahan/Projects/Sign Language AI/Data/Yes"
 
 while True:
     success, img = cap.read()
